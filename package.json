@@ -1,6 +1,6 @@
 {
   "name": "feathers-plus-common",
-  "description": "Shared utility functions.",
+  "description": "Shared utility functions for Feathers-plus.",
   "version": "0.0.0",
   "homepage": "https://github.com/feathers-plus/feathers-plus-common",
   "main": "lib/",
