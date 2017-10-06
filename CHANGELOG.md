@@ -1,5 +1,8 @@
 # Change Log
 
+## [v0.1.0](https://github.com/feathers-plus/feathers-plus-common/tree/v0.1.0) (2017-10-06)
+[Full Changelog](https://github.com/feathers-plus/feathers-plus-common/compare/v0.0.1...v0.1.0)
+
 ## [v0.0.1](https://github.com/feathers-plus/feathers-plus-common/tree/v0.0.1) (2017-10-03)
 
 
